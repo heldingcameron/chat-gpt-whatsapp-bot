@@ -11,6 +11,10 @@ pip install openai
 or 
 conda install openai
 ```
+You will also need to install the twilio dependency
+```
+pip install twilio
+```
 
 ## Usage
 
